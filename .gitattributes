@@ -1,0 +1,10 @@
+# Project-specific overrides
+# Normalize line endings
+**/*.py linguist-detectable
+yarn.lock linguist-generated
+
+public/index.html linguist-vendored
+
+*.py linguist-detectable
+* text=auto
+public/*.html linguist-vendored
