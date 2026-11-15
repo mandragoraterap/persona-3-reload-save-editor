@@ -1,0 +1,5 @@
+.coverage
+*.egg-info/
+.mypy_cache/
+*.py[cod]
+.venv/
